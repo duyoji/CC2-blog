@@ -1,0 +1,11 @@
+- async/await
+- promises
+- callbackhell
+- Node7.6
+- new feature
+- most of modern browsers support
+  - http://caniuse.com/#feat=async-functions
+  - but not all of them.
+- babel
+  - transfile
+- es2017
