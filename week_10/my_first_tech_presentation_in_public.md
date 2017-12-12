@@ -10,10 +10,11 @@ So I want to share my experience of this If you think of doing presentation in y
 
 - People
   - who have never made a presentation in public.
+  - who want to overcome your nervous in public speaking.
 
 ## What unexpectedly easy was
 
-Actually, I was uncomfortable until the end of my presentation. So I tried to talk with audience before I start to make me calm and it works for me.
+Actually, I was uncomfortable until the end of my presentation. So I tried to talk with audience before I start it to make me calm and it works for me.
 
 - People who I talked with looked smiley and I could have eye-contact to them many times.
 - After finishing presentation, some people asked about what I taught in my presentation without feeling nervous.
